@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 import yt_dlp
 
-TOKEN = "7810423105:AAEhh_u4H2jeF58o6Pi6VNBgaccxqzm24og"
+TOKEN = "7810423105:AAESytg7NCZh6mxyUdfFKUxtjdvib0NTehs"
 
 # Random emoji reactionlar
 REACTIONS = ["👍", "🔥", "😂", "❤️", "👏", "😮"]
