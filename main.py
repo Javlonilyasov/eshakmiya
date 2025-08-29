@@ -10,7 +10,7 @@ TOKEN = "7810423105:AAEhh_u4H2jeF58o6Pi6VNBgaccxqzm24og"
 REACTIONS = ["👍", "🔥", "😂", "❤️", "👏", "😮"]
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Salom! Menga Instagram link yubor 📥")
+    await update.message.reply_text("Hellomaleykum biradar yaxshimisz menga instagram link yuboring men uni videosini yuboraman  Developer👉 @Ilyasov")
 
 async def handle_instagram(update: Update, context: ContextTypes.DEFAULT_TYPE):
     url = update.message.text
