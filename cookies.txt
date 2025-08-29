@@ -1,15 +1,30 @@
 # Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
 
-.instagram.com	TRUE	/	TRUE	1790176577	csrftoken	tilPupOZHy1BUyko_FHo1Q
-.instagram.com	TRUE	/	TRUE	1756221372	dpr	1.25
-.instagram.com	TRUE	/	TRUE	1790008008	mid	aKICxgALAAEk8MGPumu23O7mJtNo
-.instagram.com	TRUE	/	TRUE	1790008009	datr	xgKiaPUcfwRfRbKWcNBT2wOO
-.instagram.com	TRUE	/	TRUE	1786984058	ig_did	20915AE1-C0AF-4346-B802-CABABC3879C2
-.instagram.com	TRUE	/	TRUE	1790176531	ps_l	1
-.instagram.com	TRUE	/	TRUE	1790176531	ps_n	1
-.instagram.com	TRUE	/	TRUE	1756221372	wd	1536x678
-.instagram.com	TRUE	/	TRUE	1787152552	sessionid	76273734204%3AuOEViE9i8OaI6S%3A15%3AAYeoW6Ruhbwdmi4AYH_KnBsMvejpU5tEr0SaP3lTDw
-.instagram.com	TRUE	/	TRUE	1763392577	ds_user_id	76273734204
-.instagram.com	TRUE	/	TRUE	0	rur	"RVA\05476273734204\0541787152575:01fee8a29dfa1cc4e9d0fc65395ed8ff3de559130184d233eb19ed3aa2cb686ed85804a2"
+.google.com	TRUE	/chrome/	FALSE	1763223883	_gcl_au	1.1-2.776448453.1755447883
+.google.com	TRUE	/chrome/	FALSE	1790008018	_ga_B7W0ZKZYDK	GS2.1-2.s1755447883$o1$g1$t1755448018$j60$l0$h0
+.google.com	TRUE	/chrome/	FALSE	1790007894	_ga	GA1.1-2.1700812623.1755447884
+.google.com	TRUE	/verify	TRUE	1772290649.178	SNID	ABablne_Xe7hQ97BhEixN_-olCp44vHHRY3J_avTN93kGUfFLTND_Q1qb-3hrV3ak6qRO8zeUYrIC3cWJAevDnQ3F0GivpuihX0
+.mozilla.org	TRUE	/	FALSE	1791039440.976	_ga_B9CY1C9VBC	GS2.1.s1756479399$o2$g0$t1756479440$j19$l0$h0
+.mozilla.org	TRUE	/	FALSE	1791039400.304	_ga	GA1.2.536584595.1755447703
+.google.com	TRUE	/	TRUE	1770999713.899	AEC	AVh_V2jyH57lUbnt4yMgEPt2bqYSFOaI7-eHKo_es0hQtGEGRPaYgT5ZZg
+.google.com	TRUE	/	TRUE	1772290649.178	NID	525=e5muf6jwdsxqFI45CxGJqx0_btGUh6OHLdbfapAqyPuSJmw2Xm3uZQ3r6fZKxND0kvWCzHRGG-jnVFSR7UFdTwGYHmXTdc6pTW7hd3g07ioIHwHllbQcKuD8I_X4XYl00Dp6xLV3a0TPNkxcuLUS1Cbo6OiPrlpuwvTRHspHACFvMYKlMqgdob90vIF0dDEh-MNO2ggErwc_C82xo5ta6A8UXjr6mhmgwVKhNAeNt-EbuoLMvl5EyrerJTAEBPLTBLrbXA
+.instagram.com	TRUE	/	TRUE	1791039714.811	csrftoken	php33RiORC4mme137rhsrM
+.instagram.com	TRUE	/	TRUE	1790007716	datr	pAGiaBwfa53Su32_MU49fhDX
+.instagram.com	TRUE	/	TRUE	1786983734	ig_did	FE983EF5-AD39-4BF9-853E-57ED4CC27F21
+.instagram.com	TRUE	/	TRUE	1790007717	ps_l	1
+.instagram.com	TRUE	/	TRUE	1790007717	ps_n	1
+.instagram.com	TRUE	/	TRUE	1790007718	mid	aKIBpAALAAHTtdasfaS6609iye-p
+.instagram.com	TRUE	/	TRUE	1764255714.811	ds_user_id	73520776350
+.chromewebstore.google.com	TRUE	/	FALSE	1790007889	_ga_KHZNC1Q6K0	GS2.1.s1755447880$o1$g1$t1755447889$j51$l0$h0
+.chromewebstore.google.com	TRUE	/	FALSE	1790007887	_ga	GA1.1.1075587341.1755447881
+chromewebstore.google.com	FALSE	/	TRUE	1758039881	OTZ	8219065_36_36__36_
+addons.mozilla.org	FALSE	/	TRUE	0	taarId	efcb68bb26298383b3215aab39b519f2bcef88ab7f3bc433f5995c7eb5ddfbd8
+.mozilla.org	TRUE	/	FALSE	1756565800	_gid	GA1.2.470070603.1756479400
+.mozilla.org	TRUE	/	FALSE	1756479460	_gat	1
+www.google.com	FALSE	/	FALSE	1756480050	DV	A4brww3oz7QbQIaWaSHSPtDzt1Zljxk
+.instagram.com	TRUE	/	TRUE	1757084508	wd	1536x731
+.instagram.com	TRUE	/	TRUE	1757084498	dpr	1.25
+.instagram.com	TRUE	/	TRUE	1788015696.589	sessionid	73520776350%3AVXHJknJe6gagj7%3A18%3AAYcYzXz2y56u9bIDMNZs84WRpTV5WL0exVYGT7QNjg
+.instagram.com	TRUE	/	TRUE	0	rur	"CLN\05473520776350\0541788015715:01fe7613fd2b9b947a645d4a1f1126beb6b1346ecdc6752f0a900064d0784167240587dd"
